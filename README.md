@@ -1,4 +1,4 @@
-This is the Windows desktop program to use for the Applied Innovation in Engineering class.
+This is the Windows desktop program to use for the Applied Innovation in Engineering class.  
 To install the program do following:
 
 ## STEP 1 - download file to your computer
