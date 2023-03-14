@@ -1,7 +1,7 @@
 This is the Windows desktop program to use for the Applied Innovation in Engineering class.
 To install the program do following:
 
-STEP 1 - download file to your computer:
+#STEP 1 - download file to your computer
 a) select the green button 'CODE'
 b) select 'Download ZIP'
   
