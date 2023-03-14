@@ -21,8 +21,7 @@ If you receive a message/dialog box saying 'Windows protected your PC' do follow
 2. a button 'Run anyway' will apear - press this button
 
 ## STEP 4 - Run Rosetta
-When the program has been installed correctly, teh program 'Rosetta' will be on the
-list of applications installed on your PC.
-There will be a link in your start menu.
-Your can also search the application by the name 'Rosetta' in the search box in the lower left corner of your PC.
+When the program has been installed correctly, the program 'Rosetta' will be on the list of applications installed on your PC.  
+There will be a link in your start menu.  
+Your can also search the application by the name 'Rosetta' in the search box in the lower left corner of your PC.  
 
