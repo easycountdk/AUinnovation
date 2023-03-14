@@ -13,12 +13,13 @@ The file 'AUinnovation-main.zip' will now be in your download folder on your PC.
 3. 'right-click' on the file 'AUinnovation-main.zip' and select 'Extract All ..'
 
 ## STEP 3 - install file
-1. open the folder 'AUinnovation-main' on the desktop and find the file 'Setup.msi' in the folder 'AUinnovation-main'
-2. run the program 'Setup.msi'
+1. open the folder 'AUinnovation-main' on the desktop
+2. find the file 'Setup.msi' in the folder 'AUinnovation-main'
+3. run the program 'Setup.msi' by double clicking on the file
 
 If you receive a message/dialog box saying 'Windows protected your PC' do following:
 1. click the link 'More info' in the dialog box
-2. a button 'Run anyway' will apear - press this button
+2. A button 'Run anyway' will apear - press this button
 
 ## STEP 4 - Run Rosetta
 When the program has been installed correctly, the program 'Rosetta' will be on the list of applications installed on your PC.  
