@@ -25,3 +25,4 @@ When the program has been installed correctly, teh program 'Rosetta' will be on 
 list of applications installed on your PC.
 There will be a link in your start menu.
 Your can also search the application by the name 'Rosetta' in the search box in the lower left corner of your PC.
+
